@@ -3,8 +3,7 @@ import React from "react";
 const data = [
   { fecha: "2 de diciembre (Semana 1)", actividad: "Artículo Rapifloc, aprobado por Tita Ochoa", resultado: "Publicado correctamente", kpi: "21 visitas" },
   { fecha: "1–7 diciembre (Semana 1)", actividad: "Validación robots.txt en Search Console", resultado: "Salud del sitio: 76% → 77%", kpi: "Elevar porcentaje de salud del sitio en 1%" },
-  { fecha: "1–7 diciembre (Semana 1)", actividad: "Keywords completadas", resultado: "1.153 productos (activos e inactivos)", kpi: "El rendimiento del tráfico de 
-www.kipclin.com ha mejorado entre nov 2025 y 31 dic 2025, con un aumento de la visibilidad del 9.1 %. (SEMRUSH)" },
+  { fecha: "1–7 diciembre (Semana 1)", actividad: "Keywords completadas", resultado: "1.153 productos (activos e inactivos)", kpi: "El rendimiento del tráfico de www.kipclin.com ha mejorado entre nov 2025 y 31 dic 2025, con un aumento de la visibilidad del 9.1 %. (SEMRUSH)" },
   { fecha: "8–14 diciembre (Semana 2)", actividad: "Identificación errores href lang (975 errores)", resultado: "Corregidas y se envió correo el 21 de diciembre (SEMRUSH)", kpi: "Elevar porcentaje de salud del sitio en 1%" },
   { fecha: "15–21 diciembre (Semana 3)", actividad: "Identificación y corrección sitemap", resultado: "243 URLs corregidas", kpi: "(Aplica en correcciones)" },
   { fecha: "17 dic", actividad: "Publicación artículo Joomla: Cuando la limpieza vale más que una buena vista", resultado: "Aprobado por Tita Ochoa. Campaña MailChimp enero (diseño aprobado por María Botero)", kpi: "17 visitas" },
